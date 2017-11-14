@@ -19,7 +19,7 @@ https://i.imgur.com/B5dvyNA.gif
 
 ## Any issues you encountered
 
--I wait half a day after set up and the attack finally shows up.
+-I wait half a day after set up and the attack finally shows up. I also tried other honeypot, but Dionase is the only one works.
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
