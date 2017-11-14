@@ -23,8 +23,7 @@ https://i.imgur.com/B5dvyNA.gif
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
--I used nmap -sV -P0 command and saw about 1500 attacks by nmap following the guide of codepath. I found the attack are generally from
-my laptop, but some are from different areas. Pcap attack is the majority.
+-I follow the guide of set up from Codepath. I used nmap -sV -P0 command and saw about 900 attacks by nmap. I found the attack are generally from my laptop, but some are from different areas. Pcap attack is the majority.
 
 ## Any unresolved questions raised by the data collected
 
