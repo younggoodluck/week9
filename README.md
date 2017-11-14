@@ -5,8 +5,14 @@ Time spent: 4 hours
 -Database back-end
 
 -Custom IDS alert 
+ 
+Database back-end
 
--Any issues you encountered
+Custom exploits (example: intentionally added SQLI vulnerabilities)
+ 
+Custom traps (example: modified version of known vulnerability to prevent full exploitation)
+ 
+Any issues you encountered
 
 -No
 
