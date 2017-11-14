@@ -7,15 +7,14 @@ Time spent: 4 hours
 -Database back-end
 
 -Wordpot 
+https://github.com/gbrindisi/wordpot
 
 -Dionaea
 https://www.edgis-security.org/single-post/dionaea-malware-honeypot
 
 （Dionaea “the Nepenthes successor” is a malware capturing honeypot initially developed under The Honeynet Project's 2009 Google Summer of Code (GSoC).）
 
-https://github.com/gbrindisi/wordpot
-
-https://i.imgur.com/B5dvyNA.gif
+Walkthrought: https://i.imgur.com/B5dvyNA.gif
 
 ## Any issues you encountered
 
