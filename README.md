@@ -11,7 +11,8 @@ Database back-end
 Custom exploits (example: intentionally added SQLI vulnerabilities)
  
 Custom traps (example: modified version of known vulnerability to prevent full exploitation)
- 
+GIF Walkthrough: https://i.imgur.com/D4Q9wTr.gif
+ GIF Walkthrough: https://i.imgur.com/B5dvyNA.gif
 Any issues you encountered
 
 -No
