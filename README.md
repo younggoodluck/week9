@@ -20,7 +20,7 @@ Walkthrought: https://i.imgur.com/B5dvyNA.gif
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
--I follow the guide of set up from Codepath. I used nmap -sV -P0 command in the terminal and saw about 900 attacks by nmap after several hours in the website.(Don`t know why it took so long, might because of set up issue) I found the attack are generally from my laptop, but some are from different areas. Pcap attack is the majority.
+-I follow the guide of set up from Codepath. Firstly, I set MHN Admin VM, install the MHN Admin, Create the honeypost and install the honeypost application. I used nmap -sV -P0 command in the terminal and saw about 900 attacks by nmap after several hours in the website.(Don`t know why it took so long, might because of set up issue) I found the attack are generally from my laptop, but some are from different areas. Pcap attack is the majority.
 
 ## Any unresolved questions raised by the data collected
 
